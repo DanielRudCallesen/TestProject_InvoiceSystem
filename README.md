@@ -29,35 +29,6 @@ The solution follows Clean Architecture principles and is organized into the fol
 - **Moq** (for mocking in tests)
 - **Swagger/OpenAPI** (for API documentation)
 
-## Getting Started
-
-### Prerequisites
-
-- .NET 9.0 SDK or later
-
-### Setup and Running
-
-1. Clone the repository
-2. Navigate to the solution folder
-3. Run the following commands:
-
-```bash
-# Restore dependencies
-dotnet restore
-
-# Build the solution
-dotnet build
-
-# Run the tests
-dotnet test
-
-# Run the API
-cd InvoiceSystem.API
-dotnet run
-```
-
-The API will be available at `https://localhost:5001` and the Swagger UI at `https://localhost:5001/swagger`.
-
 ## API Endpoints
 
 ### Invoices
@@ -92,15 +63,3 @@ The API will be available at `https://localhost:5001` and the Swagger UI at `htt
 - `POST /api/latefees`: Apply a new late fee
 - `GET /api/latefees/calculate/{invoiceId}`: Calculate late fee for an invoice
 - `GET /api/latefees/invoices-needing-fees`: Get invoices that need late fees applied
-
-## Testing
-
-The project includes unit tests for the domain entities and application services. Run the tests with:
-
-```bash
-dotnet test
-```
-
-## License
-
-This project is licensed under the MIT License. 
