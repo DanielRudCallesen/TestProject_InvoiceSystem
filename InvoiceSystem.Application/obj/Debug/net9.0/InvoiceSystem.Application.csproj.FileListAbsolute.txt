@@ -1,0 +1,15 @@
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Application.deps.json
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Application.dll
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Application.pdb
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Domain.dll
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\bin\Debug\net9.0\InvoiceSystem.Domain.pdb
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.AssemblyInfo.cs
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceS.BBB4F391.Up2Date
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.dll
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\obj\Debug\net9.0\refint\InvoiceSystem.Application.dll
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\obj\Debug\net9.0\InvoiceSystem.Application.pdb
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Application\obj\Debug\net9.0\ref\InvoiceSystem.Application.dll

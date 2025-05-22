@@ -1,0 +1,11 @@
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\bin\Debug\net9.0\InvoiceSystem.Domain.deps.json
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\bin\Debug\net9.0\InvoiceSystem.Domain.dll
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\bin\Debug\net9.0\InvoiceSystem.Domain.pdb
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net9.0\InvoiceSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net9.0\InvoiceSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net9.0\InvoiceSystem.Domain.AssemblyInfo.cs
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net9.0\InvoiceSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net9.0\InvoiceSystem.Domain.dll
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net9.0\refint\InvoiceSystem.Domain.dll
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net9.0\InvoiceSystem.Domain.pdb
+C:\Users\Danie\InvoiceSystem\InvoiceSystem.Domain\obj\Debug\net9.0\ref\InvoiceSystem.Domain.dll
